@@ -1,6 +1,6 @@
-julia 0.7
-JuMP 0.18
-MathProgBase
+julia 1.0
+JuMP 0.19
+MathOptInterface
 LightGraphs
 Reexport
 Requires
